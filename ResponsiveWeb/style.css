@@ -1,0 +1,27 @@
+html,
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar {
+    background: rgb(88, 88, 255);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.navmenu {
+    display: flex;
+    flex-direction: row;
+}
+
+.navmenu li {
+}
